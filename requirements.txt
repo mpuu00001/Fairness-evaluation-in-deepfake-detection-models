@@ -1,0 +1,3 @@
+imutils
+scipy
+scikit-image
