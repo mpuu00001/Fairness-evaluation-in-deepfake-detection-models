@@ -1,0 +1,2 @@
+/Users/muxin/PyCharm/makeup_application/sample_images/Female/test/Roseanne_Barr_0001.jpg fails to be executed!
+/Users/muxin/PyCharm/makeup_application/sample_images/Male/test/Mike_Weir_0003.jpg fails to be executed!
