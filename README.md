@@ -6,3 +6,6 @@ We transform the source test case obtianed from [Faceforensics](https://github.c
 
 Here are samples of makeup images in different test cases with contrast to the original image:
 ![Screenshot 2024-07-24 at 21 09 40](https://github.com/user-attachments/assets/c4ffb786-d391-4faf-a800-592a7b38e963)
+
+## License
+The code is released under the MIT license.
